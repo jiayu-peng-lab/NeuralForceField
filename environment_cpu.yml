@@ -4,17 +4,16 @@ channels:
  - anaconda
  - defaults
  - pytorch
- - rdkit
- - openbabel
+
 dependencies:
- - python==3.7.10 
+ - python 
  - scikit-learn==0.24.1 
  - pytorch=1.9.0 
  - ase==3.21.1 
  - pandas==1.2.2 
- - pymatgen==2021.2.16 
+ - pymatgen 
  - sympy==1.7.1 
- - rdkit==2020.09.4 
+ - rdkit 
  - hyperopt==0.2.5 
  - jq==1.6 
  - openbabel==3.1.1
